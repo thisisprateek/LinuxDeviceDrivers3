@@ -1,0 +1,1 @@
+cmd_/home/thisisprateek/ldd-workspace/my_codes/helloKModules/src/built-in.a := rm -f /home/thisisprateek/ldd-workspace/my_codes/helloKModules/src/built-in.a; ar cDPrST /home/thisisprateek/ldd-workspace/my_codes/helloKModules/src/built-in.a 
